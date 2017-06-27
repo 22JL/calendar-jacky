@@ -1,0 +1,33 @@
+p{
+	color: blue;
+}
+
+table {
+	width: auto;
+	height: auto;
+	
+}
+tr{
+	width: 100%;
+	height: 30px;
+	background-color: darkcyan;
+}
+
+td{
+	width: 35px;
+	height: 30px;
+	background-color: greenyellow;
+	text-align: center;
+}
+.anio{
+	background-color: darkcyan;
+}
+.weekend{
+	background-color: yellow;
+}
+.noDay{
+	background-color: darkgray;
+}
+.nameDay{
+    background-color: #81DAF5;
+}
